@@ -1,0 +1,11 @@
+org\exam\wrapperStreams\in\InStreamInteger.class
+org\exam\wrapperStreams\out\OutStreamImpl.class
+org\exam\wrapperStreams\in\InStream.class
+org\exam\wrapperStreams\out\OutStreamString.class
+org\exam\sortStreaming\SortingMerge.class
+org\exam\wrapperStreams\out\OutStreamInteger.class
+org\exam\sortStreaming\ParsArgsAndCreateStreams.class
+org\exam\TaskFileMerging.class
+org\exam\wrapperStreams\in\InStreamString.class
+org\exam\wrapperStreams\in\InStreamAbsImpl.class
+org\exam\wrapperStreams\out\OutStream.class

@@ -1,0 +1,16 @@
+0
+1
+2
+24
+3
+A
+Aa
+Ab
+a
+b
+c
+d
+aa
+bb
+cc
+dd
